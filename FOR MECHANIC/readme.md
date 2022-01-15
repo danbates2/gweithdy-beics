@@ -6,4 +6,4 @@ The document is completed throughout the work, and at the end the original copy 
 
 ## Hire-bike sign off
 
-Not yet completed: these will be necesasry for the mechanic to sign the bike off to confirm preparedness of the cycle. Validity of the 'sign-off' will be for three months.
+These will be necesasry for the mechanic to sign the bike off to confirm preparedness of the cycle. Validity of the 'sign-off' will be for x number of months.. thinking is 3 months for eBikes and 6 months for non-eBikes. 
